@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198750305277",
+    "project_id": "quickquote-25",
+    "storage_bucket": "quickquote-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198750305277:android:a8954b1c7b5aa276dbf794",
+        "android_client_info": {
+          "package_name": "com.codec1.quickqoute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOH9uyo6GVmVEj1lULg-ZeY2Bw3H3CjiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198750305277:android:5d9638d752411294dbf794",
+        "android_client_info": {
+          "package_name": "com.example.qoute_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOH9uyo6GVmVEj1lULg-ZeY2Bw3H3CjiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
