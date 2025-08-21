@@ -68,9 +68,9 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDUF-onVGEGir-Q-bM-20vvMIuznS5yT4c',
-    appId: '1:198750305277:ios:e12af3870c97bba8dbf794',
-    messagingSenderId: '198750305277',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'quickquote-25',
     storageBucket: 'quickquote-25.firebasestorage.app',
     iosBundleId: 'com.example.qouteApp',
