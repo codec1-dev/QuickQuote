@@ -41,27 +41,27 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDioR5dUl1TcLK_AX8o_AjzhpDNRxaZY2Y',
-    appId: '1:198750305277:web:13335437ebff7010dbf794',
-    messagingSenderId: '198750305277',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'quickquote-25',
     authDomain: 'quickquote-25.firebaseapp.com',
     storageBucket: 'quickquote-25.firebasestorage.app',
-    measurementId: 'G-DC8E4TC22V',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAOH9uyo6GVmVEj1lULg-ZeY2Bw3H3CjiE',
-    appId: '1:198750305277:android:5d9638d752411294dbf794',
-    messagingSenderId: '198750305277',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'quickquote-25',
     storageBucket: 'quickquote-25.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDUF-onVGEGir-Q-bM-20vvMIuznS5yT4c',
-    appId: '1:198750305277:ios:e12af3870c97bba8dbf794',
-    messagingSenderId: '198750305277',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'quickquote-25',
     storageBucket: 'quickquote-25.firebasestorage.app',
     iosBundleId: 'com.example.qouteApp',
@@ -77,12 +77,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDioR5dUl1TcLK_AX8o_AjzhpDNRxaZY2Y',
-    appId: '1:198750305277:web:a079abe9216f7277dbf794',
-    messagingSenderId: '198750305277',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'quickquote-25',
     authDomain: 'quickquote-25.firebaseapp.com',
     storageBucket: 'quickquote-25.firebasestorage.app',
-    measurementId: 'G-PCWBR3KYYD',
+    measurementId: '',
   );
 }
